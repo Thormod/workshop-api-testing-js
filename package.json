@@ -4,7 +4,7 @@
   "description": "Workshop about API testing in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tests"
+    "test": "mocha tests -t 5000"
   },
   "repository": {
     "type": "git",
